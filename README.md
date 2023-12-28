@@ -6,6 +6,7 @@ Bem-vindo ao TWTodoList, o gerenciador de tarefas mais incrível feito com Djang
 
 O TWTodoList é um aplicativo elegante e funcional que permite gerenciar suas tarefas de maneira eficiente. Ele oferece operações CRUD (Criar, Ler, Atualizar, Deletar) para suas tarefas, além de uma funcionalidade exclusiva de conclusão que automaticamente registra a data atual.
 
+![Tela de listagem de tarefas](https://awesomescreenshot.s3.amazonaws.com/image/1893882/45106050-ba4f951e3799a110168ffb0719cf6dc5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20231228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231228T150201Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=dcd8a9c107dcd017d1532ef727a954cb15b5f7e2104a330136fe384bfaee6777 "Tela de listagem de tarefas")
 
 ## Como Começar
 
